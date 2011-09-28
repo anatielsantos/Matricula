@@ -8,7 +8,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.zkoss.org/2005/zul http://www.zkoss.org/2005/zul/zul.xsd">
 
+<<<<<<< HEAD
     <window apply="aislan.UploadXmlComposer">
+=======
+    <window apply="aislan.UploadXmlComposer" border="normal" closable="true" maximizable="true">
+>>>>>>> 0ae82987e895266aab744eee4e6a3dbeff3d1a95
 
         <hbox>
             <image src="${z.resource(dir:'images', file:'grails_logo.png')}"/>
