@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+<matricula>
+	<CÓD>1</CÓD>
+	<Turma>A0</Turma>
+	<Matricula>IA1123M</Matricula>
+	<Nome>FABIANA ANDREINA DA SILVA SATIRO</Nome>
+	<CPF>037.067.183-08</CPF>
+	<Rg>2976844</Rg>
+	<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+	<Nascimento>5/3/1992</Nascimento>
+	<Dia>31</Dia>
+	<Mês>3</Mês>
+	<Ano>1992</Ano>
+	<Sexo>Feminino</Sexo>
+	<Estado_Civil>Viuvo</Estado_Civil>
+	<Cor>Indigena</Cor>
+	<Endereço>CONJ PETRONIO PORTELA Q06, C16</Endereço>
+	<Numero>C Q</Numero>
+	<Bairro>PARAIBINHA</Bairro>
+	<CEP>464646666</CEP>
+	<Cidade>PICOS</Cidade>
+	<Estado>PI</Estado>
+	<Telefone>8934501197</Telefone>
+	<Profissão>ESTUDANTE</Profissão>
+	<email>     </email>
+	<Pai>JOÃO SATIRO DE ARAUJO NETO</Pai>
+	<Mãe>FRANCISCA MARIA DA SILVA VALE</Mãe>
+	<Titulo></Titulo>
+	<Reservista></Reservista>
+</matricula>
+<matricula>
+<CÓD>2</CÓD>
+<Turma>IA0</Turma>
+<Matricula>IA1113M</Matricula>
+<Nome>ANA CAROLINE CIPRIANO BRANDÃO</Nome>
+<CPF>05792121303</CPF>
+<Rg>3.537.160</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>31</Dia>
+<Mês>03</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA JOSÉ ROBERTO</Endereço>
+<Numero>350</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64850000</CEP>
+<Cidade>ITAUEIRA</Cidade>
+<Estado>PI</Estado>
+<Telefone>8935591118</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<email>karoliny.cipriano10@hotmail.com</email>
+<Pai>ANTONIO CIPRIANO BRANDÃO FILHO</Pai>
+<Mãe>JOSEANA GOMES CIPRIANO</Mãe>
+</matricula>
+<matricula>
+<CÓD>3</CÓD>
+<Matricula>IA1124M</Matricula>
+<Nome>JEFFERSON PINHEIRO DA SILVA</Nome>
+<CPF>04392743381</CPF>
+<Rg>3.075.979</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>24</Dia>
+<Mês>06</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA DA ROMANA</Endereço>
+<Numero>356</Numero>
+<Bairro>PAROQUIAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999295170</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSE NILSON PINHEIRO DA SILVA</Pai>
+<Mãe>MARIA ANUNCIADA DA SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>4</CÓD>
+<Turma>IA0</Turma>
+<Matricula>IA1112M</Matricula>
+<Nome>JAILSON BEZERRA DE ARAUJO</Nome>
+<CPF>06049140324</CPF>
+<Rg>3.533.828</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>17</Dia>
+<Mês>03</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>BAIXIO DA CACIMBINHA</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64613000</CEP>
+<Cidade>GEMINIANO</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994217809</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>GLMAR JOAO DE ARAUJO</Pai>
+<Mãe>MARIA DO SOCORRO BEZERRA DA SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>5</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1133M</Matricula>
+<Nome>JESSICA NATALIA DE MORAIS SOUSA</Nome>
+<CPF>06044650332</CPF>
+<Rg>3.537.604</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>12</Dia>
+<Mês>04</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>AV. MANOEL BEZERRA</Endereço>
+<Numero>715</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64650000</CEP>
+<Cidade>MONSENHOR HIPÓLITO</Cidade>
+<Estado>PI</Estado>
+<Telefone>8981007775</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<email>jessica_naty.m.s@hotmail.com</email>
+<Pai>ANTONIO FRANCISCO DE SOUSA</Pai>
+<Mãe>ALESSANDRA LEANDRO DE MORAIS SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>6</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1104M</Matricula>
+<Nome>CECILIA MARIA DE SOUSA MOURA</Nome>
+<CPF>06069617398</CPF>
+<Rg>3543726</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>24</Dia>
+<Mês>03</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA PEDRO EVANGELISTA</Endereço>
+<Numero>928</Numero>
+<Bairro>CANTO DA VARZEA</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934227263</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>FRANCISCO DA SILVA MOURA</Pai>
+<Mãe>ROSINALVA ARAUJO DE SOUSA MOURA</Mãe>
+</matricula>
+<matricula>
+<CÓD>7</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1139M</Matricula>
+<Nome>KALINE FERNANDA COSTA LUZ</Nome>
+<CPF>04317393310</CPF>
+<Rg>3.137.796</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>11</Dia>
+<Mês>03</Mês>
+<Ano>1997</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>POVOADO LAGOA COMPRIDA</Endereço>
+<Numero>S/N</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999750381</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>FRANCISCO EDILBERTO DE SOUSA LUZ</Pai>
+<Mãe>LEILA DE JESUS COSTA LUZ</Mãe>
+</matricula>
+<matricula>
+<CÓD>8</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1128M</Matricula>
+<Nome>BRUNA DA SILVA ARAUJO</Nome>
+<CPF>06053945390</CPF>
+<Rg>3.537.627</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>03</Dia>
+<Mês>03</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>POV. VALPARAISO</Endereço>
+<Numero>S/N</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999056422</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ERIVAN MANOEL ARAUJO</Pai>
+<Mãe>MARIA IVONE SILVA ALVES ARAUJO</Mãe>
+</matricula>
+<matricula>
+<CÓD>9</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1119M</Matricula>
+<Nome>MAXWELL MOURA OSORIO</Nome>
+<CPF>04309970354</CPF>
+<Rg>3051249</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>01</Dia>
+<Mês>03</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA JORGE LEOPOLDO</Endereço>
+<Numero>637</Numero>
+<Bairro>PEDRINHAS</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994037111</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>VITAL DOS SANTOS OSORIO</Pai>
+<Mãe>MARIA DO CARMO MOURA</Mãe>
+</matricula>
+<matricula>
+<CÓD>10</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1120M</Matricula>
+<Nome>ISMAEL DE OLIVEIRA RODRIGUES</Nome>
+<CPF>06041014303</CPF>
+<Rg>3.273.478</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>07</Dia>
+<Mês>06</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA JOSE BATINGA DE SOUSA</Endereço>
+<Numero>727</Numero>
+<Bairro>PEDRINHAS</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999214391</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ABIDORAL JOÃO RODRIGUES</Pai>
+<Mãe>IRACI DE OLIVEIRA MOURA RODRIGUES</Mãe>
+</matricula>
+<matricula>
+<CÓD>11</CÓD>
+<Matricula>IA1118M</Matricula>
+<Nome>MAYKTACIO MAXIMINO DE LIMA SOUSA</Nome>
+<CPF>03597536395</CPF>
+<Rg>2.937.089</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>29</Dia>
+<Mês>09</Mês>
+<Ano>1995</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>NOVO PAQUETÁ</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64610000</CEP>
+<Cidade>SUSSUAPARA</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988112353</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>MAXIMINO SILVINO DE SOUSA</Pai>
+<Mãe>ELISALDA JOAQUINA DE LIMA</Mãe>
+</matricula>
+<matricula>
+<CÓD>12</CÓD>
+<Matricula>IA1127M</Matricula>
+<Nome>GABRIEL DE SOUSA LIMA</Nome>
+<CPF>04936559300</CPF>
+<Rg>3.178.180</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>18</Dia>
+<Mês>02</Mês>
+<Ano>1995</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>SERRA DO PROVÍSIO</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64688000</CEP>
+<Cidade>VILA NOVA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994022848</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSÉ MARTINS DE MACEDO LIMA</Pai>
+<Mãe>MARIA DAS GRAÇAS DE S. LIMA</Mãe>
+</matricula>
+<matricula>
+<CÓD>13</CÓD>
+<Matricula>IA1137M</Matricula>
+<Nome>JANDERSON DE ARAUJO SILVA</Nome>
+<CPF>05743665397</CPF>
+<Rg>3.366.510</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>24</Dia>
+<Mês>05</Mês>
+<Ano>1994</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>SERRA DO PROVISIO II</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64688000</CEP>
+<Cidade>VILA NOVA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994095627</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSÉ NICOLAU DE ARAUJO</Pai>
+<Mãe>MARIA ANIZIA PEREIRA DA SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>14</CÓD>
+<Matricula>IA1129M</Matricula>
+<Nome>JADNA DIAS SOBREIRA</Nome>
+<CPF>06077808350</CPF>
+<Rg>3.544.931</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>29</Dia>
+<Mês>09</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>AV MANOEL ALVES DE SOUSA</Endereço>
+<Numero>525</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64578000</CEP>
+<Cidade>CAMPO GRANDE DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934760018</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSE ANTONIO SOBREIRA</Pai>
+<Mãe>MARINALDA DE OLIVEIRA DIAS SOBREIRA</Mãe>
+</matricula>
+<matricula>
+<CÓD>15</CÓD>
+<Matricula>IA1138M</Matricula>
+<Nome>MARIA HILDA LUZ DE SOUSA</Nome>
+<CPF>06062947325</CPF>
+<Rg>3.538.838</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>12</Dia>
+<Mês>07</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA PROJETADA</Endereço>
+<Numero>SN</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64613000</CEP>
+<Cidade>GEMINIANO</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988070324</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>GERALDO HIPÓLITO DE SOUSA</Pai>
+<Mãe>MARIA DA CONCEIÇÃO LUZ DE SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>16</CÓD>
+<Matricula>IA1114M</Matricula>
+<Nome>RODRIGO LEAL ROCHA</Nome>
+<CPF>06134314307</CPF>
+<Rg>3.539.843</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>26</Dia>
+<Mês>08</Mês>
+<Ano>1995</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA FRANCISCO XAVIER</Endereço>
+<Numero>720</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64615000</CEP>
+<Cidade>SANTANA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988047877</Telefone>
+<Profissão>LAVRADOR</Profissão>
+<Pai>IVANILSON JOAQUIM LEAL</Pai>
+<Mãe>MARIA JOSÉ DA ROCHA LEAL</Mãe>
+</matricula>
+<matricula>
+<CÓD>17</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1121M</Matricula>
+<Nome>LIDIA MARA DOS SANTOS ROCHA</Nome>
+<CPF>03419089325</CPF>
+<Rg>3542805</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>26</Dia>
+<Mês>11</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>AV SÃO JOÃO</Endereço>
+<Numero>1490</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64615000</CEP>
+<Cidade>SANTANA DO PIAUI</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988082674</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSE LUCIANO DA ROCHA</Pai>
+<Mãe>MARIA DOS SANTOS ROCHA</Mãe>
+</matricula>
+<matricula>
+<CÓD>18</CÓD>
+<Matricula>IA1117M</Matricula>
+<Nome>GLAUCIA LAYNE DE ARAUJO SOUSA</Nome>
+<CPF>05702728319</CPF>
+<Rg>3.418.170</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>30</Dia>
+<Mês>03</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA PROJETADA</Endereço>
+<Numero>388</Numero>
+<Bairro>IPUEIRAS</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934225430</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>GILBERTO PEDRO DE SOUSA</Pai>
+<Mãe>MARIA DO SOCORRO ARAUJO LUZ DE SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>19</CÓD>
+<Matricula>IA1130M</Matricula>
+<Nome>JOYCE NARA DE SOUSA</Nome>
+<CPF>06067666340</CPF>
+<Rg>3.541.090</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>04</Dia>
+<Mês>11</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>POVOADO CAPITÃO DE CAMPOS</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999749406</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ANTONIO OLVIMAR DE SOUSA</Pai>
+<Mãe>IRANETE MARIA DE SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>20</CÓD>
+<Matricula>IA1109M</Matricula>
+<Nome>LUANA SOUSA SOBRINHO</Nome>
+<CPF>06052292369</CPF>
+<Rg>35.755.669-0</Rg>
+<Orgão_Expedição>SSP-SP</Orgão_Expedição>
+<Dia>03</Dia>
+<Mês>10</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>BR 316 K-80</Endereço>
+<Numero>SN</Numero>
+<Bairro>BAIXA DO MILHO</Bairro>
+<CEP>64575000</CEP>
+<Cidade>CAMPO GRANDE DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934760055</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<email>luanassobrinho@hotmail.com</email>
+<Pai>FRANCISCO BARTOLOMEU DE SOUSA SOBRINHO</Pai>
+<Mãe>HELENI HELENA DE SOUSA SOBRINHO</Mãe>
+</matricula>
+<matricula>
+<CÓD>21</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1105M</Matricula>
+<Nome>ZONEIDE BEZERRA MEDEIROS</Nome>
+<CPF>06067655306</CPF>
+<Rg>3540590</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>13</Dia>
+<Mês>08</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>LOCALIDADE SANTA INES</Endereço>
+<Numero>0</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64575000</CEP>
+<Cidade>CAMPO GRANDE DO PIAUI</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994004942</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSE AIRTON DE MEDEIROS</Pai>
+<Mãe>ANTONIA ROSENA BEZERRA MEDEIROS</Mãe>
+</matricula>
+<matricula>
+<CÓD>22</CÓD>
+<Matricula>IA1134M</Matricula>
+<Nome>HAMUEL DA COSTA PEREIRA</Nome>
+<CPF>06042101323</CPF>
+<Rg>3.531.209</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>20</Dia>
+<Mês>08</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA 7 DE SETEMBRO</Endereço>
+<Numero>5395</Numero>
+<Bairro>CONDURU</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8981077937</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>FRANCISCO JUNIOR PEREIRA</Pai>
+<Mãe>RITA AGNELA DA COSTA PEREIRA</Mãe>
+</matricula>
+<matricula>
+<CÓD>23</CÓD>
+<Matricula>IA1111M</Matricula>
+<Nome>CRISLY SILVA SOUSA</Nome>
+<CPF>06019400328</CPF>
+<Rg>3.518.111</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>14</Dia>
+<Mês>08</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA JORGE LEOPOLDO</Endereço>
+<Numero>4305</Numero>
+<Bairro>PEDRINHAS</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999789987</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>CLEONILDO RAIMUNDO DE SOUSA</Pai>
+<Mãe>VERONICA DA CONCEIÇÃO SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>25</CÓD>
+<Matricula>IA1140M</Matricula>
+<Nome>RUTE LUZ LISBOA</Nome>
+<CPF>06069098340</CPF>
+<Rg>3.540.349</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>23</Dia>
+<Mês>10</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>BAIXIO DA CACIMBINHA</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64613000</CEP>
+<Cidade>GEMINIANO</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994045066</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ANTONIO NETO DE LISBOA</Pai>
+<Mãe>ANTONIA FRANCISCA DA LUZ LISBOA</Mãe>
+</matricula>
+<matricula>
+<CÓD>26</CÓD>
+<Matricula>IA1103M</Matricula>
+<Nome>MAMÉDIA DE SOUSA MOURA</Nome>
+<CPF>05866668343</CPF>
+<Rg>3.458.479</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>17</Dia>
+<Mês>08</Mês>
+<Ano>1997</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>CANINHAS</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64688000</CEP>
+<Cidade>VILA NOVA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994199659</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>EUGÊNIO PEDRO DE MOURA</Pai>
+<Mãe>FRANCISCA CATARINA DE MOURA</Mãe>
+</matricula>
+<matricula>
+<CÓD>27</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1107M</Matricula>
+<Nome>REFAELA FERNANDES DE MATOS</Nome>
+<CPF>03424468355</CPF>
+<Rg>3.539.475</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>16</Dia>
+<Mês>07</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Preto</Cor>
+<Endereço>RUA LEOCIO BARBOSA</Endereço>
+<Numero>1300</Numero>
+<Bairro>CANTO DA VARZEA</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994054144</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ADALBERTO FERNANDES DA SILVA</Pai>
+<Mãe>FRANCISCA EVANEIDE DE MATOS SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>28</CÓD>
+<Matricula>IA1108M</Matricula>
+<Nome>LETICYA DARLLA SILVA OLIVEIRA</Nome>
+<CPF>00832478318</CPF>
+<Rg>3.541.252</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>11</Dia>
+<Mês>08</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA PROJETADA 27</Endereço>
+<Numero>268</Numero>
+<Bairro>JUNCO</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999848457</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JEISON BORGES DE OLIVEIRA</Pai>
+<Mãe>ELIANE DA CONCEIÇÃO SILVA OLIVEIRA</Mãe>
+</matricula>
+<matricula>
+<CÓD>29</CÓD>
+<Matricula>IA1122M</Matricula>
+<Nome>MATHEUS SILVA CRUZ</Nome>
+<CPF>01262345316</CPF>
+<Rg>3.534.499</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>27</Dia>
+<Mês>07</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA LUIZ RODRIGUES</Endereço>
+<Numero>459</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64630000</CEP>
+<Cidade>BOCAINA</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934481175</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>JOSE ORACIO CRUZ</Pai>
+<Mãe>GORETE BRASILINA DE OLIVEIRA SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>30</CÓD>
+<Matricula>IA1125M</Matricula>
+<Nome>JOSIMAR PEREIRA DA SILVA</Nome>
+<CPF>06136906309</CPF>
+<Rg>3.501.991</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>12</Dia>
+<Mês>03</Mês>
+<Ano>1994</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA SANTA RITA</Endereço>
+<Numero>39</Numero>
+<Bairro>CANTO DA VÁRZEA</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999746491</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>GERALDO ESPERIDIAO PEREIRA DA SILVA</Pai>
+<Mãe>FRANCISCA MARIA VIRGEM DA SILVA</Mãe>
+</matricula>
+<matricula>
+<CÓD>31</CÓD>
+<Matricula>IA1110M</Matricula>
+<Nome>MAYSLLA KEYLLA BRITO DO CARMO</Nome>
+<CPF>03829778317</CPF>
+<Rg>2.936.147</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>30</Dia>
+<Mês>12</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>AV SIMÃO CIRINEU DE SOUSA LIMA</Endereço>
+<Numero>60</Numero>
+<Bairro>PANTANAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934227675</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>MANOEL DE DEUS DO CARMO</Pai>
+<Mãe>MARIA VERONICA BRITO DO CARMO</Mãe>
+</matricula>
+<matricula>
+<CÓD>32</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1136M</Matricula>
+<Nome>LAERSON CARVALHO DE ARAUJO</Nome>
+<CPF>04879518328</CPF>
+<Rg>3.537.991</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>27</Dia>
+<Mês>05</Mês>
+<Ano>1993</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>LOCALIDADE SITIOZINHO</Endereço>
+<Numero>0</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64620000</CEP>
+<Cidade>DOM EXPEDITO LOPES</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934447020</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>MOISES CARVALHO DE ARAUJO</Pai>
+<Mãe>MARIANEIDE CARVALHO DE ARAUJO</Mãe>
+</matricula>
+<matricula>
+<CÓD>33</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1115M</Matricula>
+<Nome>IONES DE HOLANDA DANTS</Nome>
+<CPF>06062808392</CPF>
+<Rg>3.437391</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>08</Dia>
+<Mês>09</Mês>
+<Ano>1994</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>LOCALIDADE PRENSA TUCANO</Endereço>
+<Numero>0</Numero>
+<Bairro>ZONA RUARAL</Bairro>
+<CEP>64618000</CEP>
+<Cidade>PAQUETA</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988057170</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>ADELINA FRANCISCA DE HOLANDA DANTAS</Pai>
+<Mãe>VALDIR MOURA DANTAS</Mãe>
+</matricula>
+<matricula>
+<CÓD>34</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1126M</Matricula>
+<Nome>JOSIEL AFONSO DOS SANTOS</Nome>
+<CPF>06149683303</CPF>
+<Rg>3.541.698</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>29</Dia>
+<Mês>03</Mês>
+<Ano>1995</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>LOCALIDADE DE CACIMBAS</Endereço>
+<Numero>0</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64688000</CEP>
+<Cidade>VILA NOVA</Cidade>
+<Estado>PI</Estado>
+<Telefone>8981048868</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>LEONILA LUIZA DA SILVA BENTO</Pai>
+<Mãe>AFONSO ANTONIO DOS SANTOS</Mãe>
+</matricula>
+<matricula>
+<CÓD>35</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1132M</Matricula>
+<Nome>LARISSA KAROLINE FONTES IBIAPINO</Nome>
+<CPF>06059965393</CPF>
+<Rg>2675.966</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>09</Dia>
+<Mês>04</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA SÃO RAIMUNDO</Endereço>
+<Numero>68</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999222832</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>HELI NUNES IBIAPINO</Pai>
+<Mãe>FRANCISCA GONÇALVES DE MOURA FONTES IBIAPINO</Mãe>
+<Titulo>RETARDATARIO</Titulo>
+</matricula>
+<matricula>
+<CÓD>36</CÓD>
+<Matricula>IA1102M</Matricula>
+<Nome>FELIPE CARLOS DE ARAUJO LEAL</Nome>
+<CPF>04872519388</CPF>
+<Rg>3.542.175</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>28</Dia>
+<Mês>07</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>POVOADO BURITI GRANDE</Endereço>
+<Numero>SN</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64620000</CEP>
+<Cidade>DOM EXPEDITO LOPES</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934448089</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>CARLOS ALBERTO BARBOSA LEAL</Pai>
+<Mãe>SILVIA DE ARAUJO ROCHA LEAL</Mãe>
+</matricula>
+<matricula>
+<CÓD>37</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1106M</Matricula>
+<Nome>DAVI ALTINO HOLANDA</Nome>
+<CPF>06062978395</CPF>
+<Rg>3.539.562</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>08</Dia>
+<Mês>07</Mês>
+<Ano>1995</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Pardo</Cor>
+<Endereço>RUA MARCOS PARENTE</Endereço>
+<Numero>26</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>pi</Estado>
+<Telefone>8994155437</Telefone>
+<Profissão>estudante</Profissão>
+<Pai>FRANCISCO DE OLIVEIRA HOLANDA</Pai>
+<Mãe>MARGARIDA LIDIA ALTINO LOPES</Mãe>
+</matricula>
+<matricula>
+<CÓD>38</CÓD>
+<Matricula>IA1141N</Matricula>
+<Nome>ANA PAULA SOARES OTAVIANO</Nome>
+<CPF>05980610375</CPF>
+<Rg>3.487.726</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>13</Dia>
+<Mês>02</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA JOSÉ DO REGO</Endereço>
+<Numero>130</Numero>
+<Bairro>CENTRO</Bairro>
+<CEP>64640000</CEP>
+<Cidade>IPIRANGA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988038977</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>PAULO CESAR DE MOURA OTAVIANO</Pai>
+<Mãe>GABRIELY BARBASA SOARES</Mãe>
+</matricula>
+<matricula>
+<CÓD>39</CÓD>
+<Matricula>IA1142M</Matricula>
+<Nome>THANISE SOUSA SANTOS</Nome>
+<CPF>03451980347</CPF>
+<Rg>3.535.822</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>16</Dia>
+<Mês>05</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA MARIA JOAQUINA</Endereço>
+<Numero>78</Numero>
+<Bairro>SANTA CATARINA</Bairro>
+<CEP>64540000</CEP>
+<Cidade>IPIRANGA DO PIAUÍ</Cidade>
+<Estado>PI</Estado>
+<Telefone>8988080634</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<email>wwwthanise.sousa@hotmail.com</email>
+<Pai>JOÃO DOS SANTOS FERREIRA</Pai>
+<Mãe>MARIA ANTONIA DE SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>40</CÓD>
+<Matricula>IA1141M</Matricula>
+<Nome>LUCÊNIA DA SILVA LIMA</Nome>
+<CPF>04956007337</CPF>
+<Rg>3.185.793</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>06</Dia>
+<Mês>10</Mês>
+<Ano>1995</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Preto</Cor>
+<Endereço>RUA DAVI CIPRIANO</Endereço>
+<Numero>76</Numero>
+<Bairro>JUNCO</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934228849</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>TARCIMAR JOSE DE LIMA</Pai>
+<Mãe>MARIA DE LOURDES DA SILVA SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>41</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1143M</Matricula>
+<Nome>FRANCISCA ALANA DE SOUSA</Nome>
+<CPF>06067966301</CPF>
+<Rg>3.541.119</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>09</Dia>
+<Mês>04</Mês>
+<Ano>1996</Ano>
+<Sexo>Feminino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Endereço>LOCALIDADE TAPERA</Endereço>
+<Numero>0</Numero>
+<Bairro>ZONA RURAL</Bairro>
+<CEP>64601000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8994193725</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>FRANCISCO DAS CHAGAS ARAUJO DE SOUSA</Pai>
+<Mãe>MARIA TERESA DOS REMEDIOS  DE SOUSA</Mãe>
+</matricula>
+<matricula>
+<CÓD>42</CÓD>
+<Turma>A0</Turma>
+<Matricula>IA1199M</Matricula>
+<Nome>KEVYN OLIVEIRA WENZEL</Nome>
+<CPF>05705269307</CPF>
+<Rg>3.419.386</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>12</Dia>
+<Mês>02</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA DINORAH NUNES MEDEIROS</Endereço>
+<Numero>5659</Numero>
+<Bairro>JARDIM NATAL</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8934224598</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>NILSON ARLINDO WENZEL</Pai>
+<Mãe>EUNICE DE OLIVEIRA WENZEL</Mãe>
+</matricula>
+<matricula>
+<CÓD>43</CÓD>
+<Matricula>IA1123M</Matricula>
+<Nome>ÊNIO RENAN COSTA</Nome>
+</matricula>
+<matricula>
+<CÓD>44</CÓD>
+<Matricula>IA1145M</Matricula>
+<Nome>JORGE HENRIQUE SANTOS DE ANDRADE</Nome>
+<CPF>04172727310</CPF>
+<Rg>3.337.998</Rg>
+<Orgão_Expedição>SSP-PI</Orgão_Expedição>
+<Dia>14</Dia>
+<Mês>04</Mês>
+<Ano>1996</Ano>
+<Sexo>Masculino</Sexo>
+<Estado_Civil>Solteiro</Estado_Civil>
+<Cor>Branco</Cor>
+<Endereço>RUA SÃO JOÃO DA CANABRAVA</Endereço>
+<Numero>850</Numero>
+<Bairro>PARQUE DE EXPOSIÇÃO</Bairro>
+<CEP>64600000</CEP>
+<Cidade>PICOS</Cidade>
+<Estado>PI</Estado>
+<Telefone>8999726463</Telefone>
+<Profissão>ESTUDANTE</Profissão>
+<Pai>RAIMUNDO FRANCISCO DE ANDRADE</Pai>
+<Mãe>MARIA NEUSA DOS SANTOS</Mãe>
+</matricula>
+</alunos>

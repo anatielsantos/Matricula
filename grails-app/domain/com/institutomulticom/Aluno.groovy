@@ -13,14 +13,17 @@ class Aluno {
 	String cor
 	String logradouro
 	String bairro
+	String numero
 	String cep
+	String cidade
 	String estado
 	String telefone
 	String profissao
 	String email
 	String pai
 	String mae
-	String tituloEleitoral
+	String titulo
+	String reservista
 	ArrayList<Nota> notas
 	static hasMany = [notas:Nota]
     static constraints = {

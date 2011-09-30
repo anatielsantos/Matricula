@@ -8,9 +8,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.zkoss.org/2005/zul http://www.zkoss.org/2005/zul/zul.xsd">
 
-    <window apply="matricula.UploadXmlComposer" border="normal" closable="true" maximizable="true" title="Upload de Arquivo XML" >
+    <window apply="matricula.UploadXmlComposer" border="normal" closable="true" maximizable="true" title="Upload de Arquivo XML" sizable="true"  >
 
-		<fileupload label="Selecione o Arquivo" id="arquivoUpload" />
+		<fileupload label="Selecione o Arquivo" id="arquivoUpload" upload="true" />
+		<button label="Processar" id="btnProcessar"/>
     </window>
 
 </zk>
